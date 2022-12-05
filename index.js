@@ -14,3 +14,8 @@ let e = "USA";
 console.log(typeof e);
 let f = 10.9;
 console.log(typeof f);
+f = 20;
+console.log(f);
+let g = true;
+console.log(g);
+g = false;
