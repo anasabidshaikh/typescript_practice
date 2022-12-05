@@ -1,0 +1,12 @@
+{
+  "name": "import_export_files",
+  "version": "1.0.0",
+  "description": "exported variables, objects, functions etc  an be accessed into another file by the import and export commands.\r ### Default\r Export defaults are used to export a single module, variable, expression, or function from a JavaScript file so that it can be used in any other file of either the same program or even in an entirely different program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
