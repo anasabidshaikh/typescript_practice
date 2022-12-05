@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // Hello World of TS
 let greetings = "Hello";
 console.log(greetings);
@@ -19,3 +17,4 @@ console.log(f);
 let g = true;
 console.log(g);
 g = false;
+export {};
